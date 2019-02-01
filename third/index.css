@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 675px;
+    width: 100%;
+}
+
+.Thetop {
+    height: 15%;
+    width: 100%;
+    background: lightgray;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+.BlueSquare {
+    height: 80%;
+    width: 10%;
+    background: lightskyblue;
+    margin-left: 20px;
+}
+
+.Text {
+    height: 25%;
+    width: 100%;
+    text-align: ;
+}
+/* .Text2 {
+    height: 50%;
+    width: 100%;
+} */
+
+.Blue {
+    height: 15%;
+    width: 100%;
+    background: blue;
+}
+
+.Teal {
+    height: 15%;
+    width: 100%;
+    background: aqua;
+}
+
+.Green {
+    height: 15%;
+    width: 100%;
+    background: lightgreen;
+}
+
+.Yellow {
+    height: 15%;
+    width: 100%;
+    background: yellow;
+}

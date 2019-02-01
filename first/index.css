@@ -1,0 +1,39 @@
+* {margin: 0; padding: 0;}
+
+header {
+    height: 150px;
+    width: 100%;
+    background-color: dimgrey;
+    position: relative;
+}
+
+.leftbar {
+    width: 20%;
+    height: 79%;
+    background-color: lightgray;
+    position: absolute;
+    left: 0;
+}
+
+.rightbar {
+    width: 20%;
+    height: 569px;
+    background-color: lightgray;
+    position: absolute;
+    right: 0;
+}
+
+.centerbar {
+    width: 60%;
+    height: 569px;
+    position: absolute;
+}
+
+footer {
+    width: 60%;
+    height: 10%;
+    bottom: 0;
+    background-color: black;
+    position: absolute;
+    right: 288px;
+}
